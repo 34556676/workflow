@@ -1,4 +1,4 @@
-## AtomCI workflow
+## Jenkins workflow
 
 ### Feature
 * support custom docker run images;
